@@ -5,7 +5,7 @@
 建立主页，用github.io命名，不要用github.com，已证实不好用，主页网址是 [legeliu](https://legeliu.github.io/)，欢迎访问。
 
 
-## 家庭多媒体建立
+## 家庭多媒体系统建立
 
 ## 硬件环境
 
@@ -23,11 +23,11 @@
 
   -transmission
 
-    PT挂种神器，配置WebUI后不太稳定，各种警告及错误。
+    PT挂种神器，自带UI太弱，更换WebUI后不太稳定，种子各种警告及错误，自行恢复。
 
   -deluge
 
-    PT下载主要工具。
+    PT下载主力工具。
 
   -qbittorrent
 
