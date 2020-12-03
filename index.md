@@ -47,9 +47,9 @@
 
   -alpine Linux
   
-  -Docker-tinymediamanager
+    -Docker-tinymediamanager
   
-  -Docker-tinyRSS
+    -Docker-tinyRSS
   
 
   
