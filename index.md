@@ -1,10 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to legeliu web site
 
-You can use the [editor on GitHub](https://github.com/legeliu/legeliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+记录自己学习及实践笔记。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+建立主页，用github.io命名，不要用github.com，已证实不好用，主页网址是 [legeliu](https://legeliu.github.io/)，欢迎访问。
 
-### Markdown
+
+### 家庭多媒体建立
+
+# Header 1硬件环境
+
+移动宽带自带光猫、交换机、总机（All in one）、 AJ7400、台式机、笔记本、平板、手机、盒子等若干。
+
+# Header 1软件环境
+
+总机为中心，搭建各环境All in one，总机为Dell Wyse瘦客户机，AMD G-T56N，4G内存，1T笔记本机械硬盘，性能很弱，价格谜之高企。
+
+## Header 2操作系统-unRaid
+
+试过群晖（图形界面友好，支持Docker，虚拟机不成功，操作不流畅）、OMV（图形界面友好，支持Docker，操作流畅，文件夹各种权限不方便），最终选择unRaid，Docker、虚拟机简单易用，各种流畅，已稳定运行很久。
+
+## Header 2应用程序-transmission
+
+## Header 2应用程序-deluge
+
+## Header 2应用程序-qbittorrent
+
+## Header 2应用程序-transmission
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
