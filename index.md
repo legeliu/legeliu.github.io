@@ -19,14 +19,40 @@
 
 试过群晖（图形界面友好，支持Docker，虚拟机不成功，操作不流畅）、OMV（图形界面友好，支持Docker，操作流畅，文件夹各种权限不方便），最终选择unRaid，Docker、虚拟机简单易用，各种流畅，已稳定运行很久。
 
-### 应用程序-transmission
+### Docker
 
-### 应用程序-deluge
+  -transmission
 
-### 应用程序-qbittorrent
+    PT挂种神器，配置WebUI后不太稳定，各种警告及错误。
 
-### 应用程序-transmission
+  -deluge
 
+    PT下载主要工具。
+
+  -qbittorrent
+
+    PT备用工具。
+
+  -aria2
+
+    各种其它链接、协议类下载工具。
+
+  -tinymediamanager
+
+    因为被墙，搁置不用，另一途径解决。
+
+### Virtual Machine（VM）
+
+  -lean openWRT
+
+  -alpine Linux
+  
+  -Docker-tinymediamanager
+  
+  -Docker-tinyRSS
+  
+
+  
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -46,13 +72,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/legeliu/legeliu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
