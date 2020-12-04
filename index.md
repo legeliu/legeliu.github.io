@@ -45,12 +45,35 @@
 
   -lean openWRT
 
+    虚拟机运行，酸酸乳Plus+，作为旁路由。
+
   -alpine Linux
+
+    下载虚拟机镜像，文件只有38M，分配5G空间足矣。安装了Docker环境，开机挂载unRaid的共享文件夹，用tmm刷海报、同人画等各种影视资料。
   
     -Docker-tinymediamanager
+
+    因为被墙，在虚拟中以Docker运行，通过旁路由可以正常刮削电影资料及图片。
   
     -Docker-tinyRSS
+
+    在虚拟中以Docker运行，且通过旁路由，可订阅一些外文资料，手机Reeder可用Fever插件为客户端，本地浏览，速度很快。
   
+### 电视盒子-N1
+
+    仅作为电视盒子应用，刷Rush固件，运行流畅无广告。安装Kodi作为播放器，挂载unRaid共享盘，千兆内网4k原盘无卡顿，IPTV看电视。
+
+### 音乐播放-AJ7400
+
+    作为收音机、播放器、闹钟，闲置手机插在Dock上挂载unRaid共享文件夹，可播放歌曲，也可播放在线流媒体。
+  
+### 台式机-win10
+
+    作为重要文件存储及备份中心，按需开机。
+
+### 笔记本-windows&mac
+
+    挂载unRaid共享文件夹，临时及常用文档存储存在共享文件夹中，不占用本机空间，局域网内无线传输速度尚可接受，大文件可通过插网线传输。
 
   
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
