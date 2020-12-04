@@ -23,7 +23,7 @@
 
   -transmission
 
-    PT挂种神器，自带UI太弱，更换WebUI后不太稳定，种子各种警告及错误，自行恢复。
+    PT挂种神器，自带UI功能太弱，更换WebUI后不太稳定，种子各种警告及错误，自行恢复。
 
   -deluge
 
@@ -74,24 +74,4 @@
 ### 笔记本-windows&mac
 
     挂载unRaid共享文件夹，临时及常用文档存储存在共享文件夹中，不占用本机空间，局域网内无线传输速度尚可接受，大文件可通过插网线传输。
-
-  
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+ 
