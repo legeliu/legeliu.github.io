@@ -40,6 +40,14 @@
   -tinymediamanager
 
     因为被墙，搁置不用，另一途径解决。
+    
+  -Calibre-web
+
+    电子书管理，客户端可用Kybook。
+
+  -Airsonic
+
+    音乐库及博客订阅。
 
 #### Virtual Machine（VM）
 
